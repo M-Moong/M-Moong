@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 ---
 
-stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M-Moong&show_icons=true&theme=synthwave)
 
-Top langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Moong&layout=compact&theme=synthwave)
 
 Hits
 
