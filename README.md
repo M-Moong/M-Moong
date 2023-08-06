@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-### 그 누구와도 원활한 소통을 추구하는 개발자 노치현입니다.
+### 개발자입니다.
 
 ---
 
 ## About me
 
   <span>
-  <a href = "https://juniortunar.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-black.svg?&style=for-the-badge"/></a>
+  <a><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-black.svg?&style=for-the-badge"/></a>
 
 ## 🛠️ Tech-Stacks
 
@@ -65,14 +65,14 @@ Here are some ideas to get you started:
 
 ---
 
-[![NohChiHyun's GitHub](https://github-readme-stats.vercel.app/api?username=JuniorTunarr&theme=react&show_icons=true&custom_title=NohChiHyun's_Activity&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTunarr&layout=compact&theme=tokyonight)
+Top langs
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuniorTunarr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Hits
 
 ---
 
 ## More Info
 
-<a href= "mailto:shclgus111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
