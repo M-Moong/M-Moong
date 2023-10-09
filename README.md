@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 ## More Info
 
-<a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmdals9154@gmail.com)](mailto:tmdals9154@gmail.com)
