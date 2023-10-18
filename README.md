@@ -30,17 +30,13 @@ Here are some ideas to get you started:
 
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-### State Management
-
- <img src="https://img.shields.io/badge/Zustand-593D88?style=for-the-badge&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
- 
 ### Style
 
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 ### DB
 
- <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/pocketbase-FFCA28?style=for-the-badge&logo=pocketbase&logoColor=white">
 
 ### Collaboration
 
