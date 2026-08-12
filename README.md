@@ -71,8 +71,18 @@ QC가 배포 버전이 필요할 때마다 프론트에 매번 새 빌드를 요
 - 9개 챕터형 스크롤 내러티브 UX (갤러리·방명록·지도·퀴즈)
 - Lighthouse 실측 기반 성능 튜닝 — 페이지 용량 11.5MB → 0.95MB (**92%↓**), LCP 6.1s → 4.6s
 - 4.5개월간 152커밋, Vercel 커스텀 도메인 실배포
+- 다음 목표: Lighthouse Performance 82점 → 90점대 진입
 
 `→` [코드 보기](https://github.com/M-Moong/monorepo) · [사이트 방문](https://sm-se.com)
+
+<br>
+
+**팀 AI 워크플로우 자동화** (램파드, 사내 프로젝트 — 폐쇄망 환경이라 코드 비공개)
+`Claude Code` `Codex` `.agents.md` `GitHub-style Skill`
+
+- **Problem**: 매주 회의록 작성에 30분 이상 소요, 커밋 맥락 파악은 매번 수작업
+- **Solution**: AI 코딩 에이전트용 공통 가이드(`.agents.md`, 153줄)를 작성하고, 매주 git 커밋을 자동 분석해 회의록을 생성하는 실행형 Skill(weekly-meeting)을 직접 설계·구현해 Claude Code·Codex 양쪽에 배포
+- **Result**: 회의록 작성 시간 30분 → 10분(**66%↓**), 3주 연속 실사용, 동료 개발자가 이어받아 기능을 개선하며 팀 표준 워크플로우로 정착
 
 <br>
 
