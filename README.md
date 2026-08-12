@@ -79,8 +79,8 @@ QC가 배포 버전이 필요할 때마다 프론트에 매번 새 빌드를 요
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=M-Moong&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=D9730D&icon_color=D9730D&text_color=C9C9C9" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M-Moong&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=D9730D&text_color=C9C9C9" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=M-Moong&show_icons=true&hide_border=false&border_color=30363d&hide_title=true&bg_color=00000000&title_color=D9730D&icon_color=D9730D&text_color=C9C9C9" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M-Moong&layout=compact&hide_border=false&border_color=30363d&hide_title=true&bg_color=00000000&title_color=D9730D&text_color=C9C9C9" height="165" />
 </div>
 
 <div align="center">
